@@ -6,7 +6,7 @@
 
 ---
 ### 👨‍💻About Me :
-- 🗨️ Ask me about **PHP, Python, Javascript, java and MERN y MEVN Stack**
+- 🗨️ Ask me about **PHP, Python, java, Javascript , MERN y MEVN Stack**
 - How to reach me **karlentkzar@gmail.com**
 - 📚 I'm currently learning **Nodejs + rest, NextJS**
 
