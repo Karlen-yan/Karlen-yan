@@ -9,7 +9,7 @@
 - 🗨️ Ask me about **PHP, Python, java, Javascript , MERN y MEVN Stack**
 - How to reach me **karlentkzar@gmail.com**
 - 📚 I'm currently learning **Nodejs + rest, NextJS**
-- 📋: Portfolio Link: https: **//my-portfolio-karlen.vercel.app/** 
+- 📋: Portfolio Link: https: **my-portfolio-karlen.vercel.app** 
 ---
 
  <div align="left">
